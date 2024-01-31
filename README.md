@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![341015690_183720284474847_2338666140456184947_n](https://github.com/WellingtonADS/WellingtonADS/assets/127255529/0f93e980-1dd3-4488-9554-68b37b32b830)
+
 - 👋 Hi, I’m @WellingtonADS, Wellington Uchôa 
 - 👀 I’m interested in technology and systems analysis
 - 🌱 I’m currently learning C/C++, python, html, css, javascript
