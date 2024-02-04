@@ -1,17 +1,47 @@
-### Hi there 👋
-
-<!--
-**WellingtonADS/WellingtonADS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# 👋 Olá, sou Wellington Uchôa Pinheiro
 
 
-- 👋 Hi, I’m @WellingtonADS, Wellington Uchôa 
-- 👀 I’m interested in technology and systems analysis
-- 🌱 I’m currently learning C/C++, python, html, css, javascript
-- 💞️ I’m looking to collaborate with software development and planning
-- 📫 How to contact me through Instagram @ideiacode
-- 😄 Pronouns: He
-- ⚡ Fun fact: I don't know how to fry eggs
+## 🚀 Sobre mim:
+#### Eu trabalho com desenvolvimento Mobile, Planejamento e Gerenciamento de Equipes.
 
--->
+
+## Rede Social e Site:
+<div></br></div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ideiacode/)
+[![SITE](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.ideiacode.com/)
+<div></br></div>
+
+![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonADS&show_icons=true&theme=yeblu)
+
+## Linguagens de Programação:
+<div></br></div>
+
+[![HTMAL](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CDD3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
+[![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+
+
+## Linguagens de Programação que estou estudando:
+<div></br></div>
+
+[![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+
+## Repositórios:
+
+<div></br></div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=SiteWellington)](https://github.com/WellingtonADS/SiteWellington)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=calculadoraRankeadas)](https://github.com/WellingtonADS//calculadoraRankeadas)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=Estrutura-de-Microsservicos)](https://github.com/WellingtonADS/Estrutura-de-Microsservicos)
+
+## Linguagens mais utilizadas por mim:
+<div></br></div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonADS&size_weight=0.5&count_weight=0.5)
