@@ -37,9 +37,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=SiteWellington)](https://github.com/WellingtonADS/SiteWellington)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=calculadoraRankeadas)](https://github.com/WellingtonADS//calculadoraRankeadas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=calculadoraRankeadas)](https://github.com/WellingtonADS/Dicas-de-Logica-Padawans-techs.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=Estrutura-de-Microsservicos)](https://github.com/WellingtonADS/Estrutura-de-Microsservicos)
+
 
 ## Linguagens mais utilizadas por mim:
 <div></br></div>
