@@ -39,9 +39,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=Dicas-de-Logica-Padawans-techs)](https://github.com/WellingtonADS/Dicas-de-Logica-Padawans-techs)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=Desafio-de-progamacao)](https://github.com/WellingtonADS/Desafio-de-progamacao)
 
 
-## Linguagens mais utilizadas por mim:
+## Linguagens:
 <div></br></div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonADS&size_weight=0.5&count_weight=0.5)
