@@ -37,7 +37,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=SiteWellington)](https://github.com/WellingtonADS/SiteWellington)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=calculadoraRankeadas)](https://github.com/WellingtonADS/Dicas-de-Logica-Padawans-techs.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WellingtonADS&repo=Dicas-de-Logica-Padawans-techs)](https://github.com/WellingtonADS/Dicas-de-Logica-Padawans-techs)
 
 
 
